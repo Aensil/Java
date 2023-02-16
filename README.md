@@ -1,4 +1,4 @@
-# Java-Basics
+# Java
 
 A full cover of the Basics on java 8, Including:
 
